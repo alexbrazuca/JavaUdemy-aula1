@@ -21,6 +21,8 @@ public class Menu {
 		
 		 case 1: Jogador jogador1 = new Jogador();
 		 		jogador1.Info();
+		 		Perguntas pergunta = new Perguntas();
+		 		pergunta.perguntas();
 		 
 		 		
 		 	break;

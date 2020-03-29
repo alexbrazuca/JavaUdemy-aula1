@@ -12,5 +12,8 @@ public class Perguntas {
 		perguntas.add("O que faz o comando PR");
 		perguntas.add("O que faz o comando SORT");
 		perguntas.add("O que faz o comando cat e tac");
+		perguntas.get(0);
+		
+		
 	}
 }
