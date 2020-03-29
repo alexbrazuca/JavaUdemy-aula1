@@ -3,7 +3,10 @@ package Application;
 public class Program {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		//chamando a classe menu
+		
+		Menu menu = new Menu();
+		menu.itensDoMenu();
 
 	}
 
